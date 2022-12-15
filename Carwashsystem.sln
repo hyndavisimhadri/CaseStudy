@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carwash web api", "Carwashsystem\Carwash web api.csproj", "{B05A0910-4BEF-4BA2-88A9-96DCACBA871A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carwash mvc", "Carwash mvc\Carwash mvc.csproj", "{7BA5048D-6163-4206-934C-0AC002892468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05A0910-4BEF-4BA2-88A9-96DCACBA871A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05A0910-4BEF-4BA2-88A9-96DCACBA871A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05A0910-4BEF-4BA2-88A9-96DCACBA871A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05A0910-4BEF-4BA2-88A9-96DCACBA871A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA5048D-6163-4206-934C-0AC002892468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA5048D-6163-4206-934C-0AC002892468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA5048D-6163-4206-934C-0AC002892468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA5048D-6163-4206-934C-0AC002892468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BDEBC8F-4E3D-4D95-92CE-7D79AD028D59}
+	EndGlobalSection
+EndGlobal
